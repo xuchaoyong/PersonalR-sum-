@@ -1,2 +1,1 @@
-# PersonalR-sum-
-This is my personal Résumé
+This is my personal Résumé including Chinese and English version!
